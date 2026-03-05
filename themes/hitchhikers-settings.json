@@ -1,0 +1,17 @@
+{
+  "chat.agent.thinking.phrases": {
+    "mode": "replace",
+    "phrases": [
+      "Consulting the Infinite Improbability Drive...",
+      "Calculating the answer to the Ultimate Question...",
+      "Translating Babel fish neurons...",
+      "Deciphering Vogon poetry...",
+      "Searching the Restaurant at the End of the Universe...",
+      "Towel-checking precautions...",
+      "Don't Panic, we're thinking...",
+      "Running through the Digital Reconstruction...",
+      "Consulting Pan Galactic Gargle Blaster wisdom...",
+      "Measuring probability on the Knack-o-meter..."
+    ]
+  }
+}

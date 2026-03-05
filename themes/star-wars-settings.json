@@ -1,0 +1,17 @@
+{
+  "chat.agent.thinking.phrases": {
+    "mode": "replace",
+    "phrases": [
+      "Reading the ripples in the Force...",
+      "Meditating in the Jedi Archives...",
+      "Consulting the ancient Sith holocrons...",
+      "Accessing the Holocron vault...",
+      "Sensing the Force around you...",
+      "Communing with the Council...",
+      "Running through the Temple database...",
+      "Gathering the wisdom of generations...",
+      "May the Force guide this calculation...",
+      "The Force flows through this problem..."
+    ]
+  }
+}

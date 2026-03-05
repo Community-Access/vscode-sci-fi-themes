@@ -1,0 +1,17 @@
+{
+  "chat.agent.thinking.phrases": {
+    "mode": "replace",
+    "phrases": [
+      "Engaging warp drive...",
+      "Running full diagnostic...",
+      "Consulting the computer...",
+      "Scanning sensor arrays...",
+      "Initializing the holodeck...",
+      "Recalibrating the transporter...",
+      "Accessing the database...",
+      "Engaging tractor beam...",
+      "Routing through the LCARS...",
+      "Standing by for further instructions..."
+    ]
+  }
+}
